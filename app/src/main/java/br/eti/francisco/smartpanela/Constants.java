@@ -6,4 +6,5 @@ package br.eti.francisco.smartpanela;
 public class Constants {
 
     public static final String BT_ADDRESS = "BT_ADDRESS";
+
 }
